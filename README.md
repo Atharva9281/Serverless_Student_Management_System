@@ -80,6 +80,3 @@ The project is divided into three main parts:
 - API Gateway restricts access to Lambda functions.
 - IAM roles ensure least-privilege permissions for AWS services.
 - CORS properly configured to allow frontend access to the backend.
-
-## Conclusion
-This project illustrates the power of serverless architecture in AWS by implementing a cost-efficient and scalable student management system. By using S3, API Gateway, Lambda, DynamoDB, and CloudFront, we achieve a fully serverless, secure, and performant web application.
