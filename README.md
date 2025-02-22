@@ -10,7 +10,7 @@ Serverless architecture enables developers to build and deploy applications with
 - **Security**: Managed services reduce attack surfaces and improve reliability.
 - **Performance**: CloudFront caching and API Gateway integration enhance responsiveness.
 
-## What We Learned
+## What I Learned
 This project provided valuable insights into:
 - **AWS Lambda**: Writing and deploying serverless functions to handle backend logic.
 - **API Gateway**: Creating RESTful APIs and handling integrations with Lambda.
@@ -18,13 +18,6 @@ This project provided valuable insights into:
 - **S3 Hosting**: Hosting a static website with proper configurations.
 - **CloudFront Security**: Implementing secure access through content delivery networks.
 - **CORS Handling**: Understanding and resolving cross-origin issues in API calls.
-
-## Technologies Used
-- **AWS S3**: Hosting the frontend as a static website.
-- **AWS API Gateway**: Handling API requests.
-- **AWS Lambda**: Executing backend logic.
-- **AWS DynamoDB**: Storing and retrieving student data.
-- **AWS CloudFront**: Enhancing security and performance.
 
 ## Project Structure
 The project is divided into three main parts:
