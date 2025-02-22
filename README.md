@@ -3,6 +3,9 @@
 ## Overview
 This project demonstrates the deployment of a serverless web application using AWS services. The application is designed to manage student data, leveraging AWS S3, API Gateway, Lambda, DynamoDB, and CloudFront for a scalable, cost-effective, and secure solution.
 
+## Architecture
+
+
 ## Why This is Important
 Serverless architecture enables developers to build and deploy applications without managing underlying infrastructure. This approach provides:
 - **Scalability**: Automatic scaling based on demand.
